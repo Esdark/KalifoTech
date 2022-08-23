@@ -1736,7 +1736,7 @@ service css
 }
 
 .service-item:hover {
-  background: linear-gradient(to top left, #65a1fe 0%, #384dff 100%);
+  background: linear-gradient(to top left, #65fe68 0%, #61ff45 100%);
 }
 
 .service-item:hover {
@@ -1764,7 +1764,7 @@ service css
   width: 80px;
   height: 80px;
   line-height: 90px;
-  background: linear-gradient(to top left, #65a1fe 0%, #384dff 100%);
+  background: linear-gradient(to top left, #65fe68 0%, #61ff45 100%);
   border-radius: 50%;
   margin: 0 auto;
   position: relative;
@@ -1932,7 +1932,7 @@ skill css
   left: 0;
   height: 100%;
   border-radius: 50px;
-  background: linear-gradient(to left, #65a1fe 0%, #384dff 100%);
+  background: linear-gradient(to left, #65fe68 0%, #61ff45 100%);
   -webkit-transition: all 1s linear;
   transition: all 1s linear;
   width: 0;
@@ -1986,7 +1986,7 @@ feature css
   line-height: 73px;
   font-size: 40px;
   color: #fff;
-  background: linear-gradient(to top left, #65a1fe 0%, #384dff 100%);
+  background: linear-gradient(to top left, #65fe68 0%, #61ff45 100%);
   border-radius: 50px;
   box-shadow: 0 0 40px 5px rgb(0 0 0 / 5%);
   transition: all .5s ease-in-out;
@@ -2177,7 +2177,7 @@ choose css
   position: absolute;
   width: 80px;
   height: 80px;
-  background: linear-gradient(to top left, #65a1fe 0%, #384dff 100%);
+  background: linear-gradient(to top left, #65fe68 0%, #61ff45 100%);
   border-radius: 50px;
   top: -10px;
   left: -30px;
@@ -2399,7 +2399,7 @@ cta-area css
 ====================== */
 
 .cta-area {
-  background: linear-gradient(to left, #65a1fe 0%, #384dff 100%);
+  background: linear-gradient(to left, #65fe68 0%, #61ff45 100%);
   position: relative;
   z-index: 1;
 }
@@ -3297,7 +3297,7 @@ contact us css
 }
 
 .contact-info:hover {
-  border-color: #384dff;
+  border-color: #61ff45;
 }
 
 .contact-info-icon i {
@@ -3308,7 +3308,7 @@ contact us css
   line-height: 60px;
   text-align: center;
   border-radius: 50px;
-  background: linear-gradient(to top left, #65a1fe 0%, #384dff 100%);
+  background: linear-gradient(to top left, #65fe68 0%, #61ff45 100%);
 }
 
 .contact-info h5 {
@@ -3650,7 +3650,7 @@ pricing css
 }
 
 .pricing-amount h1 {
-  color: #384dff;
+  color: #61ff45;
   font-size: 55px;
 }
 
@@ -3674,7 +3674,7 @@ pricing css
   position: absolute;
   width: 13px;
   height: 13px;
-  color: #384dff;
+  color: #61ff45;
   font-family: "Font Awesome 6 Pro";
   font-weight: 700;
   border-radius: 50px;
@@ -3716,7 +3716,7 @@ faq css
   height: 45px;
   line-height: 45px;
   border-radius: 50px;
-  background: linear-gradient(to top left, #65a1fe 0%, #384dff 100%);
+  background: linear-gradient(to top left, #65fe68 0%, #61ff45 100%);
   text-align: center;
   color: #fff;
 }
@@ -3767,7 +3767,7 @@ breadcrumb css
   justify-content: center;
   text-align: center;
   position: relative;
-  background: linear-gradient(to top left, #65a1fe 0%, #384dff 100%);
+  background: linear-gradient(to top left, #65fe68 0%, #61ff45 100%);
   padding-top: 220px;
   padding-bottom: 200px;
   z-index: 1;
@@ -4370,7 +4370,7 @@ footer css
   z-index: -1;
   width: 30px;
   height: 2px;
-  background: linear-gradient(to top left, #65a1fe 0%, #384dff 100%);
+  background: linear-gradient(to top left, #65fe68 0%, #61ff45 100%);
   bottom: 0;
   left: 18px;
 }
@@ -4460,7 +4460,7 @@ footer css
   font-size: 16px;
   margin-right: 15px;
   border-radius: 5px;
-  background: linear-gradient(to top left, #65a1fe 0%, #384dff 100%);
+  background: linear-gradient(to top left, #65fe68 0%, #61ff45 100%);
   text-align: center;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -4562,6 +4562,6 @@ home 3
 }
 
 .home-3 .hero-single .hero-content .hero-sub-title {
-  background: linear-gradient(to left, #65a1fe 0%, #384dff 100%);
+  background: linear-gradient(to left, #65fe68 0%, #61ff45 100%);
   color: #fff;
 }
