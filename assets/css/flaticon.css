@@ -1,0 +1,533 @@
+@font-face {
+font-family: "flaticon";
+src: url("../fonts/flaticon.eot");
+src: url("../fonts/flaticond41d.eot?#iefix") format("embedded-opentype"),
+     url("../fonts/flaticon.woff") format("woff"),
+     url("../fonts/flaticon.ttf") format("truetype");
+font-weight: normal;
+font-style: normal;
+}
+
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+font-family: "flaticon";
+font-style: normal;
+font-weight: normal;
+font-variant: normal;
+text-transform: none;
+line-height: 1;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+.flaticon-tech-service:before {
+    content: "\f10f";
+}
+.flaticon-creativity:before {
+    content: "\f110";
+}
+.flaticon-car:before {
+    content: "\f111";
+}
+.flaticon-data-processing:before {
+    content: "\f112";
+}
+.flaticon-industrial:before {
+    content: "\f113";
+}
+.flaticon-mail:before {
+    content: "\f114";
+}
+.flaticon-cloud-service:before {
+    content: "\f115";
+}
+.flaticon-wallet:before {
+    content: "\f116";
+}
+.flaticon-internet-connection:before {
+    content: "\f117";
+}
+.flaticon-mobile-banking:before {
+    content: "\f118";
+}
+.flaticon-gadget:before {
+    content: "\f119";
+}
+.flaticon-innovation-1:before {
+    content: "\f11a";
+}
+.flaticon-medical-symbol:before {
+    content: "\f11b";
+}
+.flaticon-virtual-reality-glasses:before {
+    content: "\f11c";
+}
+.flaticon-satellite:before {
+    content: "\f11d";
+}
+.flaticon-mouse:before {
+    content: "\f11e";
+}
+.flaticon-humidifier:before {
+    content: "\f11f";
+}
+.flaticon-autonomous-car:before {
+    content: "\f120";
+}
+.flaticon-cloud:before {
+    content: "\f101";
+}
+.flaticon-support:before {
+    content: "\f102";
+}
+.flaticon-project-management:before {
+    content: "\f103";
+}
+.flaticon-technology:before {
+    content: "\f104";
+}
+.flaticon-data-management:before {
+    content: "\f105";
+}
+.flaticon-innovation:before {
+    content: "\f106";
+}
+.flaticon-technology-1:before {
+    content: "\f107";
+}
+.flaticon-technology-2:before {
+    content: "\f108";
+}
+.flaticon-nanotechnology:before {
+    content: "\f109";
+}
+.flaticon-artificial-intelligence:before {
+    content: "\f10a";
+}
+.flaticon-healthcare:before {
+    content: "\f10b";
+}
+.flaticon-technology-3:before {
+    content: "\f10c";
+}
+.flaticon-technology-4:before {
+    content: "\f10d";
+}
+.flaticon-dashboard:before {
+    content: "\f10e";
+}
+.flaticon-brain:before {
+    content: "\f121";
+}
+.flaticon-heart-condition:before {
+    content: "\f122";
+}
+.flaticon-conveyor:before {
+    content: "\f123";
+}
+.flaticon-global-network:before {
+    content: "\f124";
+}
+.flaticon-television:before {
+    content: "\f125";
+}
+.flaticon-internet-of-things:before {
+    content: "\f126";
+}
+.flaticon-innovation-2:before {
+    content: "\f127";
+}
+.flaticon-artificial-intelligence-1:before {
+    content: "\f128";
+}
+.flaticon-virtual-reality:before {
+    content: "\f129";
+}
+.flaticon-observatory:before {
+    content: "\f12a";
+}
+.flaticon-cloud-computing:before {
+    content: "\f12b";
+}
+.flaticon-transformation:before {
+    content: "\f12c";
+}
+.flaticon-smartwatch:before {
+    content: "\f12d";
+}
+.flaticon-server:before {
+    content: "\f12e";
+}
+.flaticon-woman:before {
+    content: "\f12f";
+}
+.flaticon-startup:before {
+    content: "\f130";
+}
+.flaticon-research:before {
+    content: "\f131";
+}
+.flaticon-smart-house:before {
+    content: "\f132";
+}
+.flaticon-smart-city:before {
+    content: "\f133";
+}
+.flaticon-sensor:before {
+    content: "\f134";
+}
+.flaticon-protection:before {
+    content: "\f135";
+}
+.flaticon-tv:before {
+    content: "\f136";
+}
+.flaticon-cloud-sync:before {
+    content: "\f137";
+}
+.flaticon-machine:before {
+    content: "\f138";
+}
+.flaticon-augmented-reality:before {
+    content: "\f139";
+}
+.flaticon-life-insurance:before {
+    content: "\f13a";
+}
+.flaticon-infrastructure:before {
+    content: "\f13b";
+}
+.flaticon-food-delivery:before {
+    content: "\f13c";
+}
+.flaticon-planet-earth:before {
+    content: "\f13d";
+}
+.flaticon-videogame:before {
+    content: "\f13e";
+}
+.flaticon-qr-code:before {
+    content: "\f13f";
+}
+.flaticon-game-control:before {
+    content: "\f140";
+}
+.flaticon-stock-market:before {
+    content: "\f141";
+}
+.flaticon-farm:before {
+    content: "\f142";
+}
+.flaticon-phone-call:before {
+    content: "\f143";
+}
+.flaticon-smart-home:before {
+    content: "\f144";
+}
+.flaticon-infrastructure-1:before {
+    content: "\f145";
+}
+.flaticon-folder:before {
+    content: "\f146";
+}
+.flaticon-mobile-phone:before {
+    content: "\f147";
+}
+.flaticon-chatbot:before {
+    content: "\f148";
+}
+.flaticon-developer:before {
+    content: "\f149";
+}
+.flaticon-voice-assistant:before {
+    content: "\f14a";
+}
+.flaticon-laptop:before {
+    content: "\f14b";
+}
+.flaticon-app:before {
+    content: "\f14c";
+}
+.flaticon-smart-car:before {
+    content: "\f14d";
+}
+.flaticon-printer:before {
+    content: "\f14e";
+}
+.flaticon-vaccum-cleaner:before {
+    content: "\f14f";
+}
+.flaticon-data-management-1:before {
+    content: "\f150";
+}
+.flaticon-cyber-security:before {
+    content: "\f151";
+}
+.flaticon-ar-glasses:before {
+    content: "\f152";
+}
+.flaticon-promotion:before {
+    content: "\f153";
+}
+.flaticon-customer-support:before {
+    content: "\f154";
+}
+.flaticon-robot:before {
+    content: "\f155";
+}
+.flaticon-vr:before {
+    content: "\f156";
+}
+.flaticon-cloud-computing-1:before {
+    content: "\f157";
+}
+.flaticon-chatbot-1:before {
+    content: "\f158";
+}
+.flaticon-servers:before {
+    content: "\f159";
+}
+.flaticon-database-storage:before {
+    content: "\f15a";
+}
+.flaticon-technology-5:before {
+    content: "\f15b";
+}
+.flaticon-battery:before {
+    content: "\f15c";
+}
+.flaticon-nanocrystal:before {
+    content: "\f15d";
+}
+.flaticon-humanoid:before {
+    content: "\f15e";
+}
+.flaticon-laser-cutting-machine:before {
+    content: "\f15f";
+}
+.flaticon-printer-1:before {
+    content: "\f160";
+}
+.flaticon-vr-goggles:before {
+    content: "\f161";
+}
+.flaticon-sensor-1:before {
+    content: "\f162";
+}
+.flaticon-hand-and-trackpad:before {
+    content: "\f163";
+}
+.flaticon-idea:before {
+    content: "\f164";
+}
+.flaticon-camera-remote-control:before {
+    content: "\f165";
+}
+.flaticon-renewable-energy:before {
+    content: "\f166";
+}
+.flaticon-weather:before {
+    content: "\f167";
+}
+.flaticon-smartphone:before {
+    content: "\f168";
+}
+.flaticon-touch-screen-with-hand:before {
+    content: "\f169";
+}
+.flaticon-technology-6:before {
+    content: "\f16a";
+}
+.flaticon-facial-recognition:before {
+    content: "\f16b";
+}
+.flaticon-technology-7:before {
+    content: "\f16c";
+}
+.flaticon-server-1:before {
+    content: "\f16d";
+}
+.flaticon-vr-technology:before {
+    content: "\f16e";
+}
+.flaticon-delivery-truck:before {
+    content: "\f16f";
+}
+.flaticon-software:before {
+    content: "\f170";
+}
+.flaticon-technology-podcast:before {
+    content: "\f171";
+}
+.flaticon-technology-products:before {
+    content: "\f172";
+}
+.flaticon-360:before {
+    content: "\f173";
+}
+.flaticon-goggles:before {
+    content: "\f174";
+}
+.flaticon-startup-1:before {
+    content: "\f175";
+}
+.flaticon-certificate:before {
+    content: "\f176";
+}
+.flaticon-certificate-1:before {
+    content: "\f177";
+}
+.flaticon-certificate-2:before {
+    content: "\f178";
+}
+.flaticon-medal:before {
+    content: "\f179";
+}
+.flaticon-award:before {
+    content: "\f17a";
+}
+.flaticon-award-1:before {
+    content: "\f17b";
+}
+.flaticon-cloud-1:before {
+    content: "\f17c";
+}
+.flaticon-cloud-data:before {
+    content: "\f17d";
+}
+.flaticon-cloud-data-1:before {
+    content: "\f17e";
+}
+.flaticon-cloud-network:before {
+    content: "\f17f";
+}
+.flaticon-migration:before {
+    content: "\f180";
+}
+.flaticon-security:before {
+    content: "\f181";
+}
+.flaticon-shield:before {
+    content: "\f182";
+}
+.flaticon-data-security:before {
+    content: "\f183";
+}
+.flaticon-guard:before {
+    content: "\f184";
+}
+.flaticon-data:before {
+    content: "\f185";
+}
+.flaticon-backup:before {
+    content: "\f186";
+}
+.flaticon-data-recovery:before {
+    content: "\f187";
+}
+.flaticon-data-recovery-1:before {
+    content: "\f188";
+}
+.flaticon-cloud-server:before {
+    content: "\f189";
+}
+.flaticon-target:before {
+    content: "\f191";
+}
+.flaticon-plan:before {
+    content: "\f192";
+}
+.flaticon-receipts:before {
+    content: "\f193";
+}
+.flaticon-confirmation:before {
+    content: "\f194";
+}
+.flaticon-confirmation-1:before {
+    content: "\f195";
+}
+.flaticon-confirmation-2:before {
+    content: "\f196";
+}
+.flaticon-firewall:before {
+    content: "\f197";
+}
+.flaticon-firewall-1:before {
+    content: "\f198";
+}
+.flaticon-firewall-2:before {
+    content: "\f199";
+}
+.flaticon-firewall-3:before {
+    content: "\f19a";
+}
+.flaticon-firewall-4:before {
+    content: "\f19b";
+}
+.flaticon-firewall-5:before {
+    content: "\f19c";
+}
+.flaticon-firewall-6:before {
+    content: "\f19d";
+}
+.flaticon-risk:before {
+    content: "\f19e";
+}
+.flaticon-risk-management:before {
+    content: "\f19f";
+}
+.flaticon-checked:before {
+    content: "\f1a0";
+}
+.flaticon-check:before {
+    content: "\f1a1";
+}
+.flaticon-shield-1:before {
+    content: "\f1a2";
+}
+.flaticon-check-1:before {
+    content: "\f1a3";
+}
+.flaticon-right-arrow-angle:before {
+    content: "\f1a4";
+}
+.flaticon-down:before {
+    content: "\f1a5";
+}
+.flaticon-big:before {
+    content: "\f1a6";
+}
+.flaticon-right-arrow:before {
+    content: "\f1a7";
+}
+.flaticon-down-arrow:before {
+    content: "\f1a8";
+}
+.flaticon-right-arrow-1:before {
+    content: "\f1a9";
+}
+.flaticon-database-storage-1:before {
+    content: "\f18a";
+}
+.flaticon-select:before {
+    content: "\f18b";
+}
+.flaticon-select-1:before {
+    content: "\f18c";
+}
+.flaticon-touchscreen:before {
+    content: "\f18d";
+}
+.flaticon-interview:before {
+    content: "\f18e";
+}
+.flaticon-interview-1:before {
+    content: "\f18f";
+}
+.flaticon-online-meeting:before {
+    content: "\f190";
+}
