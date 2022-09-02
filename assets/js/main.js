@@ -1,9 +1,4 @@
-/* =====================================================
-Template Name   : Webex
-Description     : Web Design And Development Agency HTML5 Templat
-Author          : Themesland
-Version         : 1.0
-=======================================================*/
+
 
 
 (function ($) {
