@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /contact.html
+Disallow: /about.html
+Disallow: /mailers/
+Disallow: /redirectlink/
