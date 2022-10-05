@@ -1,6 +1,8 @@
 User-agent: *
 Allow: /
 Disallow: /contact.html
-Disallow: /about.html
-Disallow: /mailers/
-Disallow: /redirectlink/
+Allow: /about.html
+Allow: /mailers/
+Allow: /redirectlink/
+
+Sitemap: https://kalifotech.com/sitemap.xml
